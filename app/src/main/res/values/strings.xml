@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppDesayunos</string>
+    <string name="action_settings">Settings</string>
+    <!--string name="web_root">http://192.168.1.105:8080/pedido/prueba.php</string-->
+    <string name="web_root">http://appdesayunos.000webhostapp.com/</string>
+    <string name="time_wait_check">10</string>
+    <string name="time_check">10</string>
+</resources>
